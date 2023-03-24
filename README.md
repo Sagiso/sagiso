@@ -9,7 +9,7 @@ SAGISO
 - PoS Blocks: Starting from 501
 - Block Time: 120 Seconds
 - Maturity: 11 Confirmations
-- Prefix: sagiso adresses start with the capital letter "G"
+- Prefix: sagiso adresses start with the capital letter "S"
 - Ports: 5599 (p2p) / 5600 (rpc)
 
 - Explorer https://explorer.sagiso.net
