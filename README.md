@@ -4,7 +4,7 @@ SAGISO
 ### Coin Specs
 
 - PoW Algorithm: HYBRID POS & MN
-- Premine:  100,000 (Current supply of all coins for swapping to sagiso)
+- Premine:  100,000 sagiso
 - PoW Blocks: 1 - 500
 - PoS Blocks: Starting from 501
 - Block Time: 120 Seconds
